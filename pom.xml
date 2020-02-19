@@ -136,9 +136,8 @@
 		</dependency> -->
 
 	</dependencies>
-	</dependencies>
-		<distributionManagement>
-    		<repository>
+	<distributionManagement>
+    	<repository>
      		<id>github</id>
      		<name>GitHub azuzi verifiable-credentials-java</name>
      		<url>https://maven.pkg.github.com/azuzi/verifiable-credentials-java</url>
