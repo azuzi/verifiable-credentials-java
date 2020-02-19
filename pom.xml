@@ -136,6 +136,7 @@
 		</dependency> -->
 
 	</dependencies>
+	</dependencies>
 		<distributionManagement>
     		<repository>
      		<id>github</id>
